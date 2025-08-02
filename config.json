@@ -105,12 +105,9 @@
       "api": "https://ww.tyyszy5.com/api.php/provide/vod",
       "name": "旺旺资源"
      },
-      "custom_category": [
-    {
     "豪华": {
       "api": "https://hhzyapi.com/api.php/provide/vod",
       "name": "豪华资源"
-      "query": "冷门佳片"
     }
   }
 }
