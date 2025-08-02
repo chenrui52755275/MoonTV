@@ -84,6 +84,22 @@
     "xiaomaomi": {
       "api": "https://zy.xmm.hk/api.php/provide/vod",
       "name": "小猫咪资源"
+    },
+    "suoni": {
+      "api": "https://suoniapi.com/api.php/provide/vod",
+      "name": "索尼资源" 
+    },
+    "ok": {
+      "api": "http://api.okzyw.net/api.php/provide/vod",
+      "name": "ok资源"
+     },
+    "ikun": {
+      "api": "https://ikunzyapi.com/api.php/provide/vod",
+      "name": "ikun资源"
+       },
+    "jinying": {
+      "api": "https://jyzyapi.com/provide/vod",
+      "name": "金鹰资源"
     }
   }
 }
