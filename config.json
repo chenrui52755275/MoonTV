@@ -96,10 +96,18 @@
     "ikun": {
       "api": "https://ikunzyapi.com/api.php/provide/vod",
       "name": "ikun资源"
-       },
+     },
     "jinying": {
       "api": "https://jyzyapi.com/provide/vod",
       "name": "金鹰资源"
+     },
+    "wangwang": {
+      "api": "https://ww.tyyszy5.com/api.php/provide/vod",
+      "name": "旺旺资源"
+     },
+    "豪华": {
+      "api": "https://hhzyapi.com/api.php/provide/vod",
+      "name": "豪华资源"
     }
   }
 }
